@@ -21,7 +21,7 @@ public class prime {
         else{
             for (int i = 5; i < (int) Math.sqrt(num); i++) {
                 System.out.println("aqui dentro");
-                if(num%i == 0){
+                if(num%i == 0 || num%(i+2) == 0){
                     return false;
                 }
             }
