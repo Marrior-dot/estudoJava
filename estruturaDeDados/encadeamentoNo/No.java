@@ -1,3 +1,5 @@
+//o generic <T>, vai permitir que nós possamos inserir qualquer dado
+//como conteudo do No
 public class No {
 /* 
 *O no funciona como uma estrutura de dados que possui um referência ao dados em si
